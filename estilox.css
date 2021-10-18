@@ -6,13 +6,15 @@
 
 }
 body {
-  min-height: 100vh;
+  min-height: 85vh;
+  position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
 
   background: -webkit-radial-gradient(#000, #0a0011);
 }
+
 
 a {
   font-family: "Fredoka One";
@@ -35,7 +37,7 @@ a {
 
 
 .container span {
-  font-size: 120pt;
+  font-size: 110pt;
   font-weight: bold;
   position: relative;
   font-family: "Fredoka One";
