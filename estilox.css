@@ -23,6 +23,17 @@ a {
 }
 
 
+.nik {
+	  font-family: "Fredoka One";
+  color: #fff;
+  right: 550px;
+  top: 20px;
+  position: absolute;
+	
+}
+
+
+
 .container span {
   font-size: 120pt;
   font-weight: bold;
